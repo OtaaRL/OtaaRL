@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./banner-dark.png#gh-dark-mode-only" alt="OtaaRL, développement web" width="100%">
-  <img src="./banner-light.png#gh-light-mode-only" alt="OtaaRL, développement web" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+    <img src="./banner-light.png" width="100%" alt="OtaaRL, développement web">
+  </picture>
 </p>
 
 <p align="center">
@@ -12,33 +14,43 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mysql,git&perline=9&theme=dark#gh-dark-mode-only" alt="HTML, CSS, JavaScript, React, Vite, Node.js, Express, MySQL, Git">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mysql,git&perline=9&theme=light#gh-light-mode-only" alt="HTML, CSS, JavaScript, React, Vite, Node.js, Express, MySQL, Git">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mysql,git&perline=9&theme=dark">
+    <img alt="HTML, CSS, JavaScript, React, Vite, Node.js, Express, MySQL, Git" src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mysql,git&perline=9&theme=light">
+  </picture>
 </p>
 
 ## Projets
 
 <p align="center">
   <a href="https://github.com/OtaaRL/BDD-EXO">
-    <img src="./card-eventhub-dark.png#gh-dark-mode-only" width="420" alt="EventHub, API Node Express MySQL">
-    <img src="./card-eventhub-light.png#gh-light-mode-only" width="420" alt="EventHub, API Node Express MySQL">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./card-eventhub-dark.png">
+      <img src="./card-eventhub-light.png" width="420" alt="EventHub, API Node Express MySQL">
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/OtaaRL/Imperium-pack">
-    <img src="./card-imperium-dark.png#gh-dark-mode-only" width="420" alt="Imperium, modpack Minecraft">
-    <img src="./card-imperium-light.png#gh-light-mode-only" width="420" alt="Imperium, modpack Minecraft">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./card-imperium-dark.png">
+      <img src="./card-imperium-light.png" width="420" alt="Imperium, modpack Minecraft">
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/OtaaRL/events_front">
-    <img src="./card-front-dark.png#gh-dark-mode-only" width="420" alt="EventHub UI, React et Vite">
-    <img src="./card-front-light.png#gh-light-mode-only" width="420" alt="EventHub UI, React et Vite">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./card-front-dark.png">
+      <img src="./card-front-light.png" width="420" alt="EventHub UI, React et Vite">
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/OtaaRL/launcher-imperium">
-    <img src="./card-launcher-dark.png#gh-dark-mode-only" width="420" alt="Launcher Imperium">
-    <img src="./card-launcher-light.png#gh-light-mode-only" width="420" alt="Launcher Imperium">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./card-launcher-dark.png">
+      <img src="./card-launcher-light.png" width="420" alt="Launcher Imperium">
+    </picture>
   </a>
 </p>
 
@@ -49,20 +61,29 @@
 </p>
 
 <p align="center">
-  <img src="./now-dark.png#gh-dark-mode-only" width="100%" alt="En ce moment : EventHub côté API et Imperium 1.21.1">
-  <img src="./now-light.png#gh-light-mode-only" width="100%" alt="En ce moment : EventHub côté API et Imperium 1.21.1">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./now-dark.png">
+    <img src="./now-light.png" width="100%" alt="En ce moment : EventHub côté API et Imperium 1.21.1">
+  </picture>
 </p>
 
 ## Activité
 
 <p align="center">
-  <img height="175" alt="Stats GitHub" src="https://github-readme-stats.vercel.app/api?username=OtaaRL&show_icons=true&hide_border=true&hide=issues&bg_color=101114&title_color=f4efe6&text_color=d9d3c8&icon_color=e39b3a&border_radius=16#gh-dark-mode-only">
-  <img height="175" alt="Stats GitHub" src="https://github-readme-stats.vercel.app/api?username=OtaaRL&show_icons=true&hide_border=true&hide=issues&bg_color=f6f1e7&title_color=17140f&text_color=2a261f&icon_color=b86a12&border_radius=16#gh-light-mode-only">
-  <img height="175" alt="Langages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtaaRL&layout=compact&hide_border=true&bg_color=101114&title_color=f4efe6&text_color=d9d3c8&border_radius=16#gh-dark-mode-only">
-  <img height="175" alt="Langages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtaaRL&layout=compact&hide_border=true&bg_color=f6f1e7&title_color=17140f&text_color=2a261f&border_radius=16#gh-light-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OtaaRL&show_icons=true&hide_border=true&hide=issues&bg_color=101114&title_color=f4efe6&text_color=d9d3c8&icon_color=e39b3a&border_radius=16">
+    <img height="175" alt="Stats GitHub" src="https://github-readme-stats.vercel.app/api?username=OtaaRL&show_icons=true&hide_border=true&hide=issues&bg_color=f6f1e7&title_color=17140f&text_color=2a261f&icon_color=b86a12&border_radius=16">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OtaaRL&layout=compact&hide_border=true&bg_color=101114&title_color=f4efe6&text_color=d9d3c8&border_radius=16">
+    <img height="175" alt="Langages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtaaRL&layout=compact&hide_border=true&bg_color=f6f1e7&title_color=17140f&text_color=2a261f&border_radius=16">
+  </picture>
 </p>
 
 <p align="center">
-  <img alt="Graphe de contributions" src="https://raw.githubusercontent.com/OtaaRL/OtaaRL/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-  <img alt="Graphe de contributions" src="https://raw.githubusercontent.com/OtaaRL/OtaaRL/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtaaRL/OtaaRL/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Graphe de contributions" src="https://raw.githubusercontent.com/OtaaRL/OtaaRL/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>

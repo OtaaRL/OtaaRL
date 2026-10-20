@@ -22,35 +22,15 @@
 
 ## Projets
 
-<a href="https://github.com/OtaaRL/BDD-EXO">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./card-eventhub-dark.png">
-    <img align="left" width="48%" alt="EventHub, API Node Express MySQL" src="./card-eventhub-light.png">
-  </picture>
-</a>
-<a href="https://github.com/OtaaRL/Imperium-pack">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./card-imperium-dark.png">
-    <img align="right" width="48%" alt="Imperium, modpack Minecraft" src="./card-imperium-light.png">
-  </picture>
-</a>
+<p align="center">
+  <a href="https://github.com/OtaaRL/BDD-EXO"><picture><source media="(prefers-color-scheme: dark)" srcset="./card-eventhub-dark.png"><img width="400" alt="EventHub, API Node Express MySQL" src="./card-eventhub-light.png"></picture></a>
+  <a href="https://github.com/OtaaRL/Imperium-pack"><picture><source media="(prefers-color-scheme: dark)" srcset="./card-imperium-dark.png"><img width="400" alt="Imperium, modpack Minecraft" src="./card-imperium-light.png"></picture></a>
+</p>
 
-<br clear="both">
-
-<a href="https://github.com/OtaaRL/events_front">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./card-front-dark.png">
-    <img align="left" width="48%" alt="EventHub UI, React et Vite" src="./card-front-light.png">
-  </picture>
-</a>
-<a href="https://github.com/OtaaRL/launcher-imperium">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./card-launcher-dark.png">
-    <img align="right" width="48%" alt="Launcher Imperium" src="./card-launcher-light.png">
-  </picture>
-</a>
-
-<br clear="both">
+<p align="center">
+  <a href="https://github.com/OtaaRL/events_front"><picture><source media="(prefers-color-scheme: dark)" srcset="./card-front-dark.png"><img width="400" alt="EventHub UI, React et Vite" src="./card-front-light.png"></picture></a>
+  <a href="https://github.com/OtaaRL/launcher-imperium"><picture><source media="(prefers-color-scheme: dark)" srcset="./card-launcher-dark.png"><img width="400" alt="Launcher Imperium" src="./card-launcher-light.png"></picture></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/OtaaRL/Projet-Soundboard">Soundboard</a>
@@ -58,25 +38,23 @@
   <a href="https://github.com/OtaaRL/site-forma">Récap de cours</a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./now-dark.png">
-  <img src="./now-light.png" width="100%" alt="En ce moment : EventHub côté API et Imperium 1.21.1">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./now-dark.png">
+    <img src="./now-light.png" width="100%" alt="En ce moment : EventHub côté API et Imperium 1.21.1">
+  </picture>
+</p>
 
 ## Activité
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OtaaRL&show_icons=true&hide_border=true&hide=issues&bg_color=101114&title_color=f4efe6&text_color=d9d3c8&icon_color=e39b3a&border_radius=16&card_width=400">
-  <img align="left" width="48%" alt="Stats GitHub" src="https://github-readme-stats.vercel.app/api?username=OtaaRL&show_icons=true&hide_border=true&hide=issues&bg_color=f6f1e7&title_color=17140f&text_color=2a261f&icon_color=b86a12&border_radius=16&card_width=400">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OtaaRL&layout=compact&hide_border=true&bg_color=101114&title_color=f4efe6&text_color=d9d3c8&border_radius=16&card_width=400">
-  <img align="right" width="48%" alt="Langages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtaaRL&layout=compact&hide_border=true&bg_color=f6f1e7&title_color=17140f&text_color=2a261f&border_radius=16&card_width=400">
-</picture>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OtaaRL&show_icons=true&hide_border=true&hide=issues&bg_color=101114&title_color=f4efe6&text_color=d9d3c8&icon_color=e39b3a&border_radius=16&card_width=400"><img width="400" alt="Stats GitHub" src="https://github-readme-stats.vercel.app/api?username=OtaaRL&show_icons=true&hide_border=true&hide=issues&bg_color=f6f1e7&title_color=17140f&text_color=2a261f&icon_color=b86a12&border_radius=16&card_width=400"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OtaaRL&layout=compact&hide_border=true&bg_color=101114&title_color=f4efe6&text_color=d9d3c8&border_radius=16&card_width=400"><img width="400" alt="Langages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtaaRL&layout=compact&hide_border=true&bg_color=f6f1e7&title_color=17140f&text_color=2a261f&border_radius=16&card_width=400"></picture>
+</p>
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtaaRL/OtaaRL/output/github-contribution-grid-snake-dark.svg">
-  <img width="100%" alt="Graphe de contributions" src="https://raw.githubusercontent.com/OtaaRL/OtaaRL/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtaaRL/OtaaRL/output/github-contribution-grid-snake-dark.svg">
+    <img width="100%" alt="Graphe de contributions" src="https://raw.githubusercontent.com/OtaaRL/OtaaRL/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>

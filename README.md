@@ -15,8 +15,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mysql,git&perline=9&theme=dark">
-    <img alt="HTML, CSS, JavaScript, React, Vite, Node.js, Express, MySQL, Git" src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mysql,git&perline=9&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Cvite%2Cnodejs%2Cexpress%2Cmysql%2Cgit&perline=9&theme=dark">
+    <img alt="HTML, CSS, JavaScript, React, Vite, Node.js, Express, MySQL, Git" src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Cvite%2Cnodejs%2Cexpress%2Cmysql%2Cgit&perline=9&theme=light">
   </picture>
 </p>
 

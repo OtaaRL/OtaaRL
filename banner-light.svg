@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="OtaaRL, développement web">
+  <rect width="1200" height="300" fill="#f6f1e7"/>
+  <rect width="8" height="300" fill="#b86a12"/>
+  <g fill="#17140f" opacity="0.16">
+    <circle cx="1040" cy="54" r="2"/>
+    <circle cx="1064" cy="54" r="2"/>
+    <circle cx="1088" cy="54" r="2"/>
+    <circle cx="1112" cy="54" r="2"/>
+    <circle cx="1040" cy="78" r="2"/>
+    <circle cx="1064" cy="78" r="2"/>
+    <circle cx="1088" cy="78" r="2"/>
+    <circle cx="1112" cy="78" r="2"/>
+    <circle cx="1040" cy="102" r="2"/>
+    <circle cx="1064" cy="102" r="2"/>
+    <circle cx="1088" cy="102" r="2"/>
+    <circle cx="1112" cy="102" r="2"/>
+  </g>
+  <text x="72" y="132" fill="#17140f" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="78">Otaa<tspan fill="#b86a12">RL</tspan></text>
+  <text x="76" y="178" fill="#6f685e" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" letter-spacing="4">DÉVELOPPEMENT WEB</text>
+  <text x="76" y="236" fill="#2a261f" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18">interfaces</text>
+  <text x="210" y="236" fill="#b86a12" font-family="Georgia, serif" font-size="18">·</text>
+  <text x="232" y="236" fill="#2a261f" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18">APIs</text>
+  <text x="292" y="236" fill="#b86a12" font-family="Georgia, serif" font-size="18">·</text>
+  <text x="314" y="236" fill="#2a261f" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18">Minecraft</text>
+</svg>

@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <img alt="OtaaRL — développement web" src="./banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+  <img alt="OtaaRL — développement web" src="./banner-light.png" width="100%">
 </picture>
 
 <br>
